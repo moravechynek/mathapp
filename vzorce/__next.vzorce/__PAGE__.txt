@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/mathapp/_next/static/chunks/7c92e96509cd355e.js"],""]
+3:I[97367,["/mathapp/_next/static/chunks/ff1a16fafef87110.js","/mathapp/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"9_SR01O-u-hFuDMiTvdoL","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"w-full h-screen","children":[["$","div",null,{"children":["$","$L2",null,{"href":"/","className":"text-lg font-medium hover:underline absolute z-0 text-gray-900 m-3 sm:m-5","children":"Domů"}]}],["$","iframe",null,{"src":"https://learningapps.org/watch?v=pnouk9r5c26","className":"w-full h-full z-1"}]]}],[["$","script","script-0",{"src":"/mathapp/_next/static/chunks/7c92e96509cd355e.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
